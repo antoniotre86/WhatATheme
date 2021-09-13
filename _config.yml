@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'WhatATheme'
+url: https://www.antoniotre86.github.io
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: https://www.antoniotre86.github.io
+baseurl: "/WhatATheme"
 
 # Title of the Site
 title: Antonio Trenta
