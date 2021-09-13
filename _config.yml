@@ -4,14 +4,14 @@ markdown: kramdown
 # URL of the Site
 url: https://antoniotre86.github.io
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: "/WhatATheme"
+baseurl: "/web-under_construction"
 
 # Title of the Site
 title: Antonio Trenta
 # Description of the Site
 description: Data Scientist
 # URL of Image of the Site
-site-image: assets/images/meta.jpg
+site-image: assets/images/picrew_me-00.png
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
