@@ -18,7 +18,7 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://live.staticflickr.com/7722/17117350128_d5511a1718_k.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: assets/images/chesler00.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -45,7 +45,15 @@ author-name: Antonio Trenta
 # URL for the Image of the Author
 author-image: assets/images/picrew_me-00.png
 # 60 Words About the Author
-author-about: I'm a Data Scientist, educated in Stats and ML, working in the field since 2013. I have an undergraduate degree in Economics, a graduate degree in Statistics, and a MSc in Machine Learning and Computational Statistics. Learned to code on the job; mainly Python, R and Scala. I've worked on natural language processing and information extraction, recommender systems, web user behaviour modelling and personalisation for e-commerce, product analytics, forecasting, reporting, BOT and anomaly detection in web sessions, user representation and profiling.
+author-about: >
+  I'm a Data Scientist, educated in Stats and ML, working in the field since 2013.
+  Learned to code on the job; mainly Python, R and Scala.
+  Things I'm enthusiastic about include: Natural Language Processing and information extraction, Recommender Systems,
+  web user behaviour modelling and personalisation, analytics, forecasting, anomaly detection,
+  Causal Inference and Fairness in AI.
+  When I'm not working you will find me being a tourist somewhere, hiking in the mountains, cycling in fair weather
+  or playing those two/three pieces I still remember on the piano.
+
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/antoniotre86
 
